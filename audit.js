@@ -13,6 +13,9 @@ const ENTRIES = [
   { id: 9224,  slug: "overall-equipment-effectiveness-oee" },
   { id: 9255,  slug: "failure-mode-and-effects-analysis-fmea" },
   { id: 9920,  slug: "asset-criticality-ranking-acr" },
+  { id: 10981, slug: "preventive-maintenance-compliance-pmc" },
+  { id: 11114, slug: "spalling" },
+  { id: 13225, slug: "pao-oil-polyalphaolefin" },
 ];
 
 const REQUIRED_ANCHORS = [
