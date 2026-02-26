@@ -1,8 +1,24 @@
-const fs = require('fs');
-const path = require('path');
+
+
+/*
+ * IMPORTANT — CLAUDE CODE USAGE RULES FOR THIS SCRIPT
+ *
+ * This script publishes or updates WordPress posts using the contents of content.json.
+ * It must NEVER be used to generate, draft, or rewrite content.json.
+ *
+ * The correct workflow is:
+ *   1. Content is drafted in Claude.ai and reviewed by the user.
+ *   2. The user manually places the approved content into content.json.
+ *   3. Claude Code runs this script to publish or update the post.
+ *
+ * Claude Code must never write or modify content.json. That file is owned by
+ * the user. Claude Code's only role here is executing publish commands.
+ */
 
 const { WP_URL, WP_USER, WP_APP_PASSWORD } = process.env;
 const credentials = Buffer.from(`${WP_USER}:${WP_APP_PASSWORD}`).toString('base64');
+const path = require('path');
+const fs = require('fs');
 const headers = {
   'Authorization': `Basic ${credentials}`,
   'Content-Type': 'application/json',
