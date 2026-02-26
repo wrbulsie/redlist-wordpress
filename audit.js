@@ -11,6 +11,7 @@ const ENTRIES = [
   { id: 16464, slug: "maintenance-sop-standard-operating-procedure" },
   { id: 5665,  slug: "computerized-maintenance-management-system" },
   { id: 9224,  slug: "overall-equipment-effectiveness-oee" },
+  { id: 9255,  slug: "failure-mode-and-effects-analysis-fmea" },
 ];
 
 const REQUIRED_ANCHORS = [
