@@ -1,0 +1,740 @@
+[
+  {
+    "id": 16568,
+    "slug": "wrench-time",
+    "title": "Wrench Time",
+    "status": "publish"
+  },
+  {
+    "id": 16514,
+    "slug": "usage-based-maintenance-ubm",
+    "title": "Usage-Based Maintenance (UBM)",
+    "status": "publish"
+  },
+  {
+    "id": 16464,
+    "slug": "maintenance-sop-standard-operating-procedure",
+    "title": "Maintenance SOP (Standard Operating Procedure)",
+    "status": "publish"
+  },
+  {
+    "id": 16423,
+    "slug": "reliability",
+    "title": "Reliability",
+    "status": "publish"
+  },
+  {
+    "id": 16078,
+    "slug": "quality-maintenance-qm",
+    "title": "Quality Maintenance (QM)",
+    "status": "publish"
+  },
+  {
+    "id": 16227,
+    "slug": "reactive-maintenance",
+    "title": "Reactive Maintenance",
+    "status": "publish"
+  },
+  {
+    "id": 16180,
+    "slug": "ranking-index-for-maintenance-expenditures-rime",
+    "title": "Ranking Index for Maintenance Expenditures (RIME)",
+    "status": "publish"
+  },
+  {
+    "id": 15941,
+    "slug": "precision-maintenance",
+    "title": "Precision Maintenance",
+    "status": "publish"
+  },
+  {
+    "id": 15364,
+    "slug": "non-destructive-testing-ndt",
+    "title": "Non-Destructive Testing (NDT)",
+    "status": "publish"
+  },
+  {
+    "id": 14788,
+    "slug": "level-of-repair-analysis-lora",
+    "title": "Level of Repair Analysis (LORA)",
+    "status": "publish"
+  },
+  {
+    "id": 14751,
+    "slug": "lean-maintenance",
+    "title": "Lean Maintenance",
+    "status": "publish"
+  },
+  {
+    "id": 14663,
+    "slug": "infant-mortality-failures",
+    "title": "Infant Mortality Failures",
+    "status": "publish"
+  },
+  {
+    "id": 14006,
+    "slug": "industrial-internet-of-things-iiot",
+    "title": "Industrial Internet of Things (IIoT)",
+    "status": "publish"
+  },
+  {
+    "id": 14063,
+    "slug": "failure-code",
+    "title": "Failure Code",
+    "status": "publish"
+  },
+  {
+    "id": 13729,
+    "slug": "vendor-managed-inventory-vmi",
+    "title": "Vendor Managed Inventory (VMI)",
+    "status": "publish"
+  },
+  {
+    "id": 13727,
+    "slug": "economic-order-quantity-eoq",
+    "title": "Economic Order Quantity (EOQ)",
+    "status": "publish"
+  },
+  {
+    "id": 13728,
+    "slug": "estimated-plant-replacement-value-eprv",
+    "title": "Estimated Plant Replacement Value (EPRV)",
+    "status": "publish"
+  },
+  {
+    "id": 13624,
+    "slug": "jit-inventory-management",
+    "title": "JIT Inventory Management (Just-in-Time)",
+    "status": "publish"
+  },
+  {
+    "id": 13441,
+    "slug": "deferred-maintenance",
+    "title": "Deferred Maintenance",
+    "status": "publish"
+  },
+  {
+    "id": 13442,
+    "slug": "bill-of-materials-bom",
+    "title": "Bill of Materials (BOM)",
+    "status": "publish"
+  },
+  {
+    "id": 13307,
+    "slug": "breakdown-maintenance",
+    "title": "Breakdown Maintenance",
+    "status": "publish"
+  },
+  {
+    "id": 13280,
+    "slug": "asset-utilization",
+    "title": "Asset Utilization",
+    "status": "publish"
+  },
+  {
+    "id": 13224,
+    "slug": "dynamic-viscosity-dv",
+    "title": "Dynamic Viscosity (DV)",
+    "status": "publish"
+  },
+  {
+    "id": 13225,
+    "slug": "pao-oil-polyalphaolefin",
+    "title": "PAO Oil / Polyalphaolefin",
+    "status": "publish"
+  },
+  {
+    "id": 13206,
+    "slug": "pag-oil-polyalkylene-glycol",
+    "title": "PAG Oil / Polyalkylene Glycol",
+    "status": "publish"
+  },
+  {
+    "id": 13205,
+    "slug": "kinematic-viscosity-kv",
+    "title": "Kinematic Viscosity (KV)",
+    "status": "publish"
+  },
+  {
+    "id": 13165,
+    "slug": "optimum-reference-state-ors",
+    "title": "Optimum Reference State (ORS)",
+    "status": "publish"
+  },
+  {
+    "id": 13166,
+    "slug": "national-lubrication-grease-institute-nlgi",
+    "title": "National Lubrication Grease Institute (NLGI)",
+    "status": "publish"
+  },
+  {
+    "id": 13144,
+    "slug": "overall-lubricant-criticality-olc",
+    "title": "Overall Lubricant Criticality (OLC)",
+    "status": "publish"
+  },
+  {
+    "id": 13143,
+    "slug": "degradation-occurrence-factor-dof",
+    "title": "Degradation Occurrence Factor (DOF)",
+    "status": "publish"
+  },
+  {
+    "id": 13108,
+    "slug": "lubricant-criticality-factor-lcf",
+    "title": "Lubricant Criticality Factor (LCF)",
+    "status": "publish"
+  },
+  {
+    "id": 13107,
+    "slug": "overall-machine-criticality-omc",
+    "title": "Overall Machine Criticality (OMC)",
+    "status": "publish"
+  },
+  {
+    "id": 13082,
+    "slug": "cavitation",
+    "title": "Cavitation",
+    "status": "publish"
+  },
+  {
+    "id": 13081,
+    "slug": "prescriptive-maintenance-rxm",
+    "title": "Prescriptive Maintenance (RxM)",
+    "status": "publish"
+  },
+  {
+    "id": 13056,
+    "slug": "filter-beta-ratio",
+    "title": "Filter Beta Ratio",
+    "status": "publish"
+  },
+  {
+    "id": 13057,
+    "slug": "maintenance-repair-and-operations-mro",
+    "title": "Maintenance, Repair, and Operations (MRO)",
+    "status": "publish"
+  },
+  {
+    "id": 12900,
+    "slug": "corrective-maintenance-cm",
+    "title": "Corrective Maintenance (CM)",
+    "status": "publish"
+  },
+  {
+    "id": 12901,
+    "slug": "evidence-based-asset-management-ebam",
+    "title": "Evidence-Based Asset Management (EBAM)",
+    "status": "publish"
+  },
+  {
+    "id": 12784,
+    "slug": "field-service-management-fsm",
+    "title": "Field Service Management (FSM)",
+    "status": "publish"
+  },
+  {
+    "id": 12783,
+    "slug": "lockout-tagout-loto",
+    "title": "Lockout Tagout (LOTO)",
+    "status": "publish"
+  },
+  {
+    "id": 12705,
+    "slug": "turbine-oil-oxidation-stability-test-tost",
+    "title": "Turbine Oil Oxidation Stability Test (TOST)",
+    "status": "publish"
+  },
+  {
+    "id": 12704,
+    "slug": "asset-maintainability-am",
+    "title": "Asset Maintainability (AM)",
+    "status": "publish"
+  },
+  {
+    "id": 12549,
+    "slug": "rotating-pressure-vessel-oxidation-test-rpvot",
+    "title": "Rotating Pressure Vessel Oxidation Test (RPVOT)",
+    "status": "publish"
+  },
+  {
+    "id": 12516,
+    "slug": "key-performance-indicator-kpi",
+    "title": "Key Performance Indicator (KPI)",
+    "status": "publish"
+  },
+  {
+    "id": 12054,
+    "slug": "mine-safety-and-health-administration-msha",
+    "title": "Mine Safety and Health Administration (MSHA)",
+    "status": "publish"
+  },
+  {
+    "id": 12164,
+    "slug": "probability-of-failure-pof",
+    "title": "Probability of Failure (PoF)",
+    "status": "publish"
+  },
+  {
+    "id": 11725,
+    "slug": "reliability-availability-maintainability-analysis",
+    "title": "Reliability Availability Maintainability (RAM) Analysis",
+    "status": "publish"
+  },
+  {
+    "id": 11723,
+    "slug": "asset-availability",
+    "title": "Asset Availability",
+    "status": "publish"
+  },
+  {
+    "id": 11380,
+    "slug": "osha-occupational-safety-and-health-administration",
+    "title": "OSHA (Occupational Safety and Health Administration)",
+    "status": "publish"
+  },
+  {
+    "id": 11304,
+    "slug": "risk-based-maintenance-rbm",
+    "title": "Risk-Based Maintenance (RBM)",
+    "status": "publish"
+  },
+  {
+    "id": 11116,
+    "slug": "risk-management-plan-rmp",
+    "title": "Risk Management Plan (RMP)",
+    "status": "publish"
+  },
+  {
+    "id": 11114,
+    "slug": "spalling",
+    "title": "Spalling",
+    "status": "publish"
+  },
+  {
+    "id": 11061,
+    "slug": "pre-startup-safety-review-pssr",
+    "title": "Pre-Startup Safety Review (PSSR)",
+    "status": "publish"
+  },
+  {
+    "id": 11058,
+    "slug": "run-to-failure-maintenance-rtf",
+    "title": "Run-to-Failure Maintenance (RTF)",
+    "status": "publish"
+  },
+  {
+    "id": 11042,
+    "slug": "fault-tree-analysis-fta",
+    "title": "Fault Tree Analysis (FTA)",
+    "status": "publish"
+  },
+  {
+    "id": 11040,
+    "slug": "planned-maintenance-percentage-pmp",
+    "title": "Planned Maintenance Percentage (PMP)",
+    "status": "publish"
+  },
+  {
+    "id": 10981,
+    "slug": "preventive-maintenance-compliance-pmc",
+    "title": "Preventive Maintenance Compliance (PMC)",
+    "status": "publish"
+  },
+  {
+    "id": 10962,
+    "slug": "first-in-first-out-fifo",
+    "title": "First In First Out (FIFO)",
+    "status": "publish"
+  },
+  {
+    "id": 10887,
+    "slug": "proactive-maintenance",
+    "title": "Proactive Maintenance",
+    "status": "publish"
+  },
+  {
+    "id": 10228,
+    "slug": "journal-bearing",
+    "title": "Journal Bearing",
+    "status": "publish"
+  },
+  {
+    "id": 10809,
+    "slug": "bearing-isolator",
+    "title": "Bearing Isolator",
+    "status": "publish"
+  },
+  {
+    "id": 10778,
+    "slug": "management-of-change-moc",
+    "title": "Management of Change (MOC)",
+    "status": "publish"
+  },
+  {
+    "id": 10449,
+    "slug": "machine-lubrication-technician-certification-mlt",
+    "title": "Machine Lubrication Technician Certification (MLT)",
+    "status": "publish"
+  },
+  {
+    "id": 10446,
+    "slug": "fixed-time-maintenance-ftm",
+    "title": "Fixed-Time Maintenance (FTM)",
+    "status": "publish"
+  },
+  {
+    "id": 10433,
+    "slug": "dipf-curve",
+    "title": "DIPF Curve",
+    "status": "publish"
+  },
+  {
+    "id": 10430,
+    "slug": "mobile-device-management-mdm",
+    "title": "Mobile Device Management (MDM)",
+    "status": "publish"
+  },
+  {
+    "id": 10415,
+    "slug": "mean-time-to-repair-mttr",
+    "title": "Mean Time to Repair (MTTR)",
+    "status": "publish"
+  },
+  {
+    "id": 10413,
+    "slug": "vacuum-dehydration-oil-purification-system-vdops",
+    "title": "Vacuum Dehydration Oil Purification System (VDOPS)",
+    "status": "publish"
+  },
+  {
+    "id": 10226,
+    "slug": "acid-number-an",
+    "title": "Acid Number (AN)",
+    "status": "publish"
+  },
+  {
+    "id": 9941,
+    "slug": "mean-downtime-mdt",
+    "title": "Mean Downtime (MDT)",
+    "status": "publish"
+  },
+  {
+    "id": 9927,
+    "slug": "nfc-tags",
+    "title": "Near Field Communication (NFC) Tags",
+    "status": "publish"
+  },
+  {
+    "id": 9918,
+    "slug": "process-safety-management-psm",
+    "title": "Process Safety Management (PSM)",
+    "status": "publish"
+  },
+  {
+    "id": 9920,
+    "slug": "asset-criticality-ranking-acr",
+    "title": "Asset Criticality Ranking (ACR)",
+    "status": "publish"
+  },
+  {
+    "id": 9905,
+    "slug": "lubrication-management",
+    "title": "Lubrication Management",
+    "status": "publish"
+  },
+  {
+    "id": 9907,
+    "slug": "thermography",
+    "title": "Thermography",
+    "status": "publish"
+  },
+  {
+    "id": 9785,
+    "slug": "lube-oil-system-accumulator",
+    "title": "Lube Oil System Accumulator (LOSA)",
+    "status": "publish"
+  },
+  {
+    "id": 9783,
+    "slug": "analytical-ferrography",
+    "title": "Analytical Ferrography",
+    "status": "publish"
+  },
+  {
+    "id": 9708,
+    "slug": "lube-oil-system-los",
+    "title": "Lube Oil System (LOS)",
+    "status": "publish"
+  },
+  {
+    "id": 9710,
+    "slug": "operator-asset-care-oac",
+    "title": "Operator Asset Care (OAC)",
+    "status": "publish"
+  },
+  {
+    "id": 9589,
+    "slug": "root-cause-failure-analysis-rcfa",
+    "title": "Root Cause Failure Analysis (RCFA)￼",
+    "status": "publish"
+  },
+  {
+    "id": 9587,
+    "slug": "asset-reliability",
+    "title": "Asset Reliability",
+    "status": "publish"
+  },
+  {
+    "id": 9547,
+    "slug": "condition-based-maintenance-cbm",
+    "title": "Condition-Based Maintenance (CBM)",
+    "status": "publish"
+  },
+  {
+    "id": 9550,
+    "slug": "dropping-point",
+    "title": "Dropping Point",
+    "status": "publish"
+  },
+  {
+    "id": 9513,
+    "slug": "certified-maintenance-and-reliability-professional",
+    "title": "Certified Maintenance and Reliability Professional (CMRP)￼",
+    "status": "publish"
+  },
+  {
+    "id": 9517,
+    "slug": "reliability-centered-maintenance-rcm",
+    "title": "Reliability-Centered Maintenance (RCM)",
+    "status": "publish"
+  },
+  {
+    "id": 9470,
+    "slug": "fourier-transform-infrared-ftir-spectroscopy",
+    "title": "Fourier Transform Infrared (FTIR) Spectroscopy￼",
+    "status": "publish"
+  },
+  {
+    "id": 9461,
+    "slug": "boundary-lubrication",
+    "title": "Boundary Lubrication",
+    "status": "publish"
+  },
+  {
+    "id": 9467,
+    "slug": "operator-driven-reliability-odr",
+    "title": "Operator-Driven Reliability (ODR)",
+    "status": "publish"
+  },
+  {
+    "id": 9459,
+    "slug": "viscosity-index-vi",
+    "title": "Viscosity Index (VI)",
+    "status": "publish"
+  },
+  {
+    "id": 9339,
+    "slug": "total-cost-of-ownership-tco",
+    "title": "Total Cost of Ownership (TCO)",
+    "status": "publish"
+  },
+  {
+    "id": 9399,
+    "slug": "total-productive-maintenance-tpm",
+    "title": "Total Productive Maintenance (TPM)",
+    "status": "publish"
+  },
+  {
+    "id": 9266,
+    "slug": "scheduled-maintenance-critical-percentage-smcp",
+    "title": "Scheduled Maintenance Critical Percentage (SMCP)￼",
+    "status": "publish"
+  },
+  {
+    "id": 9255,
+    "slug": "failure-mode-and-effects-analysis-fmea",
+    "title": "Failure Mode and Effects Analysis (FMEA)",
+    "status": "publish"
+  },
+  {
+    "id": 9224,
+    "slug": "overall-equipment-effectiveness-oee",
+    "title": "Overall Equipment Effectiveness (OEE)",
+    "status": "publish"
+  },
+  {
+    "id": 9222,
+    "slug": "preventive-maintenance-pm",
+    "title": "Preventive Maintenance (PM)",
+    "status": "publish"
+  },
+  {
+    "id": 9212,
+    "slug": "viscosity",
+    "title": "Viscosity",
+    "status": "publish"
+  },
+  {
+    "id": 9207,
+    "slug": "predictive-maintenance-pdm",
+    "title": "Predictive Maintenance (PdM)",
+    "status": "publish"
+  },
+  {
+    "id": 9204,
+    "slug": "request-for-information-rfi",
+    "title": "Request for Information (RFI)",
+    "status": "publish"
+  },
+  {
+    "id": 9202,
+    "slug": "mean-time-between-failures-mtbf",
+    "title": "Mean Time Between Failures (MTBF)",
+    "status": "publish"
+  },
+  {
+    "id": 9198,
+    "slug": "mean-time-to-failure-mttf",
+    "title": "Mean Time to Failure (MTTF)",
+    "status": "publish"
+  },
+  {
+    "id": 9088,
+    "slug": "desiccant-breather",
+    "title": "Desiccant Breather",
+    "status": "publish"
+  },
+  {
+    "id": 9086,
+    "slug": "demulsibility",
+    "title": "Demulsibility",
+    "status": "publish"
+  },
+  {
+    "id": 5728,
+    "slug": "what-is-a-engineering-change-request",
+    "title": "Engineering Change Request (ECR)",
+    "status": "publish"
+  },
+  {
+    "id": 8976,
+    "slug": "root-cause-analysis",
+    "title": "Root Cause Analysis (RCA)",
+    "status": "publish"
+  },
+  {
+    "id": 8970,
+    "slug": "lubrication-engineer",
+    "title": "Lubrication Engineer",
+    "status": "publish"
+  },
+  {
+    "id": 8916,
+    "slug": "vibration-analysis",
+    "title": "Vibration Analysis",
+    "status": "publish"
+  },
+  {
+    "id": 8865,
+    "slug": "reliability-engineer",
+    "title": "Reliability Engineer",
+    "status": "publish"
+  },
+  {
+    "id": 8264,
+    "slug": "machinery-lubrication",
+    "title": "Machinery Lubrication",
+    "status": "publish"
+  },
+  {
+    "id": 8405,
+    "slug": "oil-analysis-and-lubricant-analysis",
+    "title": "Oil Analysis / Lubricant Analysis",
+    "status": "publish"
+  },
+  {
+    "id": 8843,
+    "slug": "condition-monitoring-cm",
+    "title": "Condition Monitoring (CM)",
+    "status": "publish"
+  },
+  {
+    "id": 5819,
+    "slug": "five-whys-analysis",
+    "title": "Five Whys Analysis",
+    "status": "publish"
+  },
+  {
+    "id": 5764,
+    "slug": "fracas",
+    "title": "FRACAS",
+    "status": "publish"
+  },
+  {
+    "id": 5762,
+    "slug": "enterprise-resource-planning-software",
+    "title": "Enterprise Resource Planning (ERP) Software",
+    "status": "publish"
+  },
+  {
+    "id": 5730,
+    "slug": "enterprise-asset-management",
+    "title": "Enterprise Asset Management (EAM)",
+    "status": "publish"
+  },
+  {
+    "id": 5667,
+    "slug": "corrective-action-preventive-action",
+    "title": "Corrective Action Preventive Action (CAPA)",
+    "status": "publish"
+  },
+  {
+    "id": 5665,
+    "slug": "computerized-maintenance-management-system",
+    "title": "Computerized Maintenance Management System (CMMS)",
+    "status": "publish"
+  },
+  {
+    "id": 5629,
+    "slug": "bathtub-curve",
+    "title": "Bathtub Curve",
+    "status": "publish"
+  },
+  {
+    "id": 5627,
+    "slug": "driver-vehicle-inspection-report",
+    "title": "Driver Vehicle Inspection Report (DVIR)",
+    "status": "publish"
+  },
+  {
+    "id": 5527,
+    "slug": "asset-management",
+    "title": "Asset Management",
+    "status": "publish"
+  },
+  {
+    "id": 5524,
+    "slug": "autonomous-maintenance",
+    "title": "Autonomous Maintenance",
+    "status": "publish"
+  },
+  {
+    "id": 5429,
+    "slug": "asset-hierarchy",
+    "title": "Asset Hierarchy",
+    "status": "publish"
+  },
+  {
+    "id": 5007,
+    "slug": "asset-life-cycle",
+    "title": "What is Asset Life Cycle?",
+    "status": "publish"
+  },
+  {
+    "id": 4176,
+    "slug": "asset-performance-management",
+    "title": "Asset Performance Management (APM)",
+    "status": "publish"
+  }
+]
