@@ -16,6 +16,10 @@ const ENTRIES = [
   { id: 10981, slug: "preventive-maintenance-compliance-pmc" },
   { id: 11114, slug: "spalling" },
   { id: 13225, slug: "pao-oil-polyalphaolefin" },
+  { id: 12900, slug: "corrective-maintenance-cm" },
+  { id: 10415, slug: "mean-time-to-repair-mttr" },
+  { id: 9399, slug: "total-productive-maintenance-tpm" },
+  { id: 9517, slug: "reliability-centered-maintenance-rcm" },
 ];
 
 const REQUIRED_ANCHORS = [
