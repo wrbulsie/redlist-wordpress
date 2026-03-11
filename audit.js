@@ -26,6 +26,13 @@ const ENTRIES = [
   { id: 5429, slug: "asset-hierarchy" },
   { id: 5730, slug: "enterprise-asset-management" },
   { id: 5527, slug: "asset-management" },
+  { id: 9339, slug: "total-cost-of-ownership-tco" },
+  { id: 11723, slug: "asset-availability" },
+  { id: 16568, slug: "wrench-time" },
+  { id: 11058, slug: "run-to-failure-maintenance-rtf" },
+  { id: 11040, slug: "planned-maintenance-percentage-pmp" },
+  { id: 9905, slug: "lubrication-management" },
+  { id: 8976, slug: "root-cause-analysis" },
 ];
 
 const REQUIRED_ANCHORS = [
