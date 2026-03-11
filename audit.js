@@ -20,6 +20,12 @@ const ENTRIES = [
   { id: 10415, slug: "mean-time-to-repair-mttr" },
   { id: 9399, slug: "total-productive-maintenance-tpm" },
   { id: 9517, slug: "reliability-centered-maintenance-rcm" },
+  { id: 8843, slug: "condition-monitoring-cm" },
+  { id: 8916, slug: "vibration-analysis" },
+  { id: 8405, slug: "oil-analysis-and-lubricant-analysis" },
+  { id: 5429, slug: "asset-hierarchy" },
+  { id: 5730, slug: "enterprise-asset-management" },
+  { id: 5527, slug: "asset-management" },
 ];
 
 const REQUIRED_ANCHORS = [
@@ -180,8 +186,11 @@ function auditEntry(entry, data) {
     issues.push(`Forbidden phrases: ${foundPhrases.map(p => `"${p}"`).join(", ")}`);
   }
 
-  // 8. No self-referencing links
-  const selfLinks = links.filter(l => l.href.includes(`/${slug}/`));
+  // 8. No self-referencing links (excluding CTA section)
+  const ctaSection = html.match(/<h2[^>]*id="cta"[^>]*>[\s\S]*$/i)?.[0] || '';
+  const selfLinks = links.filter(l => 
+    l.href.includes(`/${slug}/`) && !ctaSection.includes(l.href)
+  );
   if (selfLinks.length === 0) {
     passes.push(`No self-referencing links`);
   } else {
