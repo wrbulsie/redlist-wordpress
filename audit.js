@@ -59,10 +59,6 @@ const SOLUTION_PILLARS = [
   "getredlist.com/lubrication-management/",
 ];
 
-const SUNSET_SLUGS = [
-  "health-safety-environmental",
-  "field-service-management",
-];
 
 const FORBIDDEN_PHRASES = [
   "our cmms",
@@ -173,13 +169,8 @@ function auditEntry(entry, data) {
     issues.push(`No solution pillar CTA link (expected cmms/, enterprise-asset-management/, or lubrication-management/)`);
   }
 
-  // 6. No sunset pillar links
-  const sunsetFound = SUNSET_SLUGS.filter(s => linkHrefs.some(h => h.includes(s)));
-  if (sunsetFound.length === 0) {
-    passes.push(`No sunset pillar links`);
-  } else {
-    issues.push(`Sunset pillar links found: ${sunsetFound.join(", ")}`);
-  }
+ // 6. HSE and Field Service links allowed (maintenance mode solutions)
+    passes.push(`HSE and Field Service linking permitted`);
 
   // 7. No forbidden phrases (word-boundary match on text content only)
   const textOnly = stripTags(html).toLowerCase();
